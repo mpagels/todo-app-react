@@ -4,7 +4,7 @@ import "./SubmitToDo.css";
 export default function SubmitToDo() {
   return (
     <div>
-      <button>✓</button>
+      <button className="btn_submit">✓</button>
     </div>
   );
 }
