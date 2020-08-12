@@ -1,6 +1,6 @@
 # Simple To Do app with react
 
-First try with react to build a simple non interactive to do app
+First try with react to build a very simple to do app
 
 ## Next step:
 
